@@ -19,3 +19,9 @@ Bye bye Betty: delete file betty from /tmp/my_first_directory
 Bye bye my first directory: delete my_first_directory from /tmp/
 
 Back to the future:script that change the working dir to the previous one
+
+Lists:script that list all files in current, parent, and /boot dir, in long format
+
+File type: script that print the file type of iamafile in /tmp
+
+We are symbols, and inhabit symbols: symlink to /bin/ls named __ls__

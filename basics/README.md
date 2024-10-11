@@ -29,3 +29,7 @@ We are symbols, and inhabit symbols: symlink to /bin/ls named __ls__
 Copy HTML files: script that copy all html files to the parent dir
 
 Let's move: script that moves all files beginning with capital letters to /tmp/u
+
+Clean emacs: Delete files ending with ~ in current dir
+
+Tree: Create welcome/, welcome/to, welcome/to/school with only 2 spaces in script

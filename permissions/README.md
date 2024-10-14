@@ -13,3 +13,4 @@
 12 More directories: script that creates my_dir with 751 permissions
 13 Change group: script to change group owner to school for the file hello
 14 Owner and group: change owner to vincent and group to staff
+15 Symbolic links: script that change the owner of _hello to vincent and staff respectively

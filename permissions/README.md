@@ -4,3 +4,5 @@
 3 New owner : script that change the owner of the Hello file
 4 Empty: create empty hello file script
 5 Execute: change permission of hello file to be executable by owner
+6 Multiple permissions: give multiple permissions to hello file script
+7 Everybody: give exe permission to everybody on hello file

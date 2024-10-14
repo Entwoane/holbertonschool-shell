@@ -6,3 +6,5 @@
 5 Execute: change permission of hello file to be executable by owner
 6 Multiple permissions: give multiple permissions to hello file script
 7 Everybody: give exe permission to everybody on hello file
+8 James Bond: 007 Script
+9 John Doe: Give hello file specific permissions

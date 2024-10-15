@@ -3,3 +3,4 @@
 2 Let's display a file: Script that display the content of etc/passwd
 3 What about two?: Display content of 2 files at once
 4 Last line of a file: Display 10 lines of etc/passwd
+5 I'd prefer the first one actually: 10 first lines

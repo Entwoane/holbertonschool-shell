@@ -5,3 +5,6 @@
 4 Last line of a file: Display 10 lines of etc/passwd
 5 I'd prefer the first one actually: 10 first lines
 6 Line #2: Display the third line of the file iacta
+7 It is a good file that cuts iron without making a noise: Script that creates very specific names file containing text
+8 Save current state of directory: Script that create a file and exec a command inside
+9 Duplicate last line: Script that dup the last line of iacta

@@ -4,3 +4,4 @@
 3 What about two?: Display content of 2 files at once
 4 Last line of a file: Display 10 lines of etc/passwd
 5 I'd prefer the first one actually: 10 first lines
+6 Line #2: Display the third line of the file iacta

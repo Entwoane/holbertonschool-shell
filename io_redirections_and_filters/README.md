@@ -8,3 +8,7 @@
 7 It is a good file that cuts iron without making a noise: Script that creates very specific names file containing text
 8 Save current state of directory: Script that create a file and exec a command inside
 9 Duplicate last line: Script that dup the last line of iacta
+10 No more Javascript: Script that delete regular .js files in current and subfolders
+11 Don't just count your directories, make your directories count: Script that counts the number of dir and subdir of current dir
+12 What's new: Script that display 10 newest files in current dir
+13 Being unique is better than being perfect: Script that takes a list of words as input and prints only words that appear exactly once.

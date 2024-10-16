@@ -12,3 +12,6 @@
 11 Don't just count your directories, make your directories count: Script that counts the number of dir and subdir of current dir
 12 What's new: Script that display 10 newest files in current dir
 13 Being unique is better than being perfect: Script that takes a list of words as input and prints only words that appear exactly once.
+14 It must be in that file: Display pattern root in /etc/passwd
+15 Count that word: Display number of lines with pattern "bin" in /etc/passwd
+16 What's Next: Display line containing "root" and 3 lines after in /etc/passwd

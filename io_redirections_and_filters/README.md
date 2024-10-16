@@ -18,3 +18,6 @@
 17 I hate bins: exclude bin from a search
 18 Letters only please: display lines starting with a letter
 19 A to Z: Replace all A and c to Z and e respectively
+20 Without C, you would live in hiago: Script that removes "c" and "C"
+21 esreveR: Reverse script
+22 DJ Cut Killer: Script that displays all user and their home dir, sorted by users

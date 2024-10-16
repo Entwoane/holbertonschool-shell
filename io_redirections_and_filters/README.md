@@ -17,3 +17,4 @@
 16 What's Next: Display line containing "root" and 3 lines after in /etc/passwd
 17 I hate bins: exclude bin from a search
 18 Letters only please: display lines starting with a letter
+19 A to Z: Replace all A and c to Z and e respectively
